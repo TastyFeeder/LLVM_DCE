@@ -1,1 +1,4 @@
-# LLVM_DCE
+LLVM DCE
+---
+implenment simple dead code elimination
+
